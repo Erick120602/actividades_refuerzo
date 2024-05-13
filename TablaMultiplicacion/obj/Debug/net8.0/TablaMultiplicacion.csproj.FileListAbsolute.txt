@@ -1,0 +1,14 @@
+C:\Users\gokuf\source\repos\TablaMultiplicacion\bin\Debug\net8.0\TablaMultiplicacion.exe
+C:\Users\gokuf\source\repos\TablaMultiplicacion\bin\Debug\net8.0\TablaMultiplicacion.deps.json
+C:\Users\gokuf\source\repos\TablaMultiplicacion\bin\Debug\net8.0\TablaMultiplicacion.runtimeconfig.json
+C:\Users\gokuf\source\repos\TablaMultiplicacion\bin\Debug\net8.0\TablaMultiplicacion.dll
+C:\Users\gokuf\source\repos\TablaMultiplicacion\bin\Debug\net8.0\TablaMultiplicacion.pdb
+C:\Users\gokuf\source\repos\TablaMultiplicacion\obj\Debug\net8.0\TablaMultiplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokuf\source\repos\TablaMultiplicacion\obj\Debug\net8.0\TablaMultiplicacion.AssemblyInfoInputs.cache
+C:\Users\gokuf\source\repos\TablaMultiplicacion\obj\Debug\net8.0\TablaMultiplicacion.AssemblyInfo.cs
+C:\Users\gokuf\source\repos\TablaMultiplicacion\obj\Debug\net8.0\TablaMultiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\gokuf\source\repos\TablaMultiplicacion\obj\Debug\net8.0\TablaMultiplicacion.dll
+C:\Users\gokuf\source\repos\TablaMultiplicacion\obj\Debug\net8.0\refint\TablaMultiplicacion.dll
+C:\Users\gokuf\source\repos\TablaMultiplicacion\obj\Debug\net8.0\TablaMultiplicacion.pdb
+C:\Users\gokuf\source\repos\TablaMultiplicacion\obj\Debug\net8.0\TablaMultiplicacion.genruntimeconfig.cache
+C:\Users\gokuf\source\repos\TablaMultiplicacion\obj\Debug\net8.0\ref\TablaMultiplicacion.dll

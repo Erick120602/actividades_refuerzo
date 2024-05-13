@@ -1,0 +1,14 @@
+C:\Users\gokuf\source\repos\Cardinal\obj\Debug\net8.0\Cardinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokuf\source\repos\Cardinal\obj\Debug\net8.0\Cardinal.AssemblyInfoInputs.cache
+C:\Users\gokuf\source\repos\Cardinal\obj\Debug\net8.0\Cardinal.AssemblyInfo.cs
+C:\Users\gokuf\source\repos\Cardinal\obj\Debug\net8.0\Cardinal.csproj.CoreCompileInputs.cache
+C:\Users\gokuf\source\repos\Cardinal\bin\Debug\net8.0\Cardinal.exe
+C:\Users\gokuf\source\repos\Cardinal\bin\Debug\net8.0\Cardinal.deps.json
+C:\Users\gokuf\source\repos\Cardinal\bin\Debug\net8.0\Cardinal.runtimeconfig.json
+C:\Users\gokuf\source\repos\Cardinal\bin\Debug\net8.0\Cardinal.dll
+C:\Users\gokuf\source\repos\Cardinal\bin\Debug\net8.0\Cardinal.pdb
+C:\Users\gokuf\source\repos\Cardinal\obj\Debug\net8.0\Cardinal.dll
+C:\Users\gokuf\source\repos\Cardinal\obj\Debug\net8.0\refint\Cardinal.dll
+C:\Users\gokuf\source\repos\Cardinal\obj\Debug\net8.0\Cardinal.pdb
+C:\Users\gokuf\source\repos\Cardinal\obj\Debug\net8.0\Cardinal.genruntimeconfig.cache
+C:\Users\gokuf\source\repos\Cardinal\obj\Debug\net8.0\ref\Cardinal.dll

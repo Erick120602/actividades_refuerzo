@@ -1,0 +1,10 @@
+C:\Users\gokuf\source\repos\vecesBoton\bin\Debug\vecesBoton.exe.config
+C:\Users\gokuf\source\repos\vecesBoton\bin\Debug\vecesBoton.exe
+C:\Users\gokuf\source\repos\vecesBoton\bin\Debug\vecesBoton.pdb
+C:\Users\gokuf\source\repos\vecesBoton\obj\Debug\vecesBoton.csproj.AssemblyReference.cache
+C:\Users\gokuf\source\repos\vecesBoton\obj\Debug\vecesBoton.Form1.resources
+C:\Users\gokuf\source\repos\vecesBoton\obj\Debug\vecesBoton.Properties.Resources.resources
+C:\Users\gokuf\source\repos\vecesBoton\obj\Debug\vecesBoton.csproj.GenerateResource.cache
+C:\Users\gokuf\source\repos\vecesBoton\obj\Debug\vecesBoton.csproj.CoreCompileInputs.cache
+C:\Users\gokuf\source\repos\vecesBoton\obj\Debug\vecesBoton.exe
+C:\Users\gokuf\source\repos\vecesBoton\obj\Debug\vecesBoton.pdb

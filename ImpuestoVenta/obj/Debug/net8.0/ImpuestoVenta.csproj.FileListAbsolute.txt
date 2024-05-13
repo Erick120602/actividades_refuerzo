@@ -1,0 +1,14 @@
+C:\Users\gokuf\source\repos\ImpuestoVenta\bin\Debug\net8.0\ImpuestoVenta.exe
+C:\Users\gokuf\source\repos\ImpuestoVenta\bin\Debug\net8.0\ImpuestoVenta.deps.json
+C:\Users\gokuf\source\repos\ImpuestoVenta\bin\Debug\net8.0\ImpuestoVenta.runtimeconfig.json
+C:\Users\gokuf\source\repos\ImpuestoVenta\bin\Debug\net8.0\ImpuestoVenta.dll
+C:\Users\gokuf\source\repos\ImpuestoVenta\bin\Debug\net8.0\ImpuestoVenta.pdb
+C:\Users\gokuf\source\repos\ImpuestoVenta\obj\Debug\net8.0\ImpuestoVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokuf\source\repos\ImpuestoVenta\obj\Debug\net8.0\ImpuestoVenta.AssemblyInfoInputs.cache
+C:\Users\gokuf\source\repos\ImpuestoVenta\obj\Debug\net8.0\ImpuestoVenta.AssemblyInfo.cs
+C:\Users\gokuf\source\repos\ImpuestoVenta\obj\Debug\net8.0\ImpuestoVenta.csproj.CoreCompileInputs.cache
+C:\Users\gokuf\source\repos\ImpuestoVenta\obj\Debug\net8.0\ImpuestoVenta.dll
+C:\Users\gokuf\source\repos\ImpuestoVenta\obj\Debug\net8.0\refint\ImpuestoVenta.dll
+C:\Users\gokuf\source\repos\ImpuestoVenta\obj\Debug\net8.0\ImpuestoVenta.pdb
+C:\Users\gokuf\source\repos\ImpuestoVenta\obj\Debug\net8.0\ImpuestoVenta.genruntimeconfig.cache
+C:\Users\gokuf\source\repos\ImpuestoVenta\obj\Debug\net8.0\ref\ImpuestoVenta.dll
